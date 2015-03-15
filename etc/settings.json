@@ -1,0 +1,44 @@
+{
+	"CENTER": {
+		"frame": {
+			"name": "f1"
+		}
+	}
+}
+
+{
+    "CENTER": {
+        "size": 0,
+        "panel": {
+            "WEST": {
+                "size": 636,
+                "frame": {
+                    "name": "frame1"
+                }
+            },
+            "CENTER": {
+                "size": 0,
+                "frame": {
+                    "name": "frame2"
+                }
+            }
+        }
+    }
+}
+
+{
+    "CENTER": {
+        "panel": {
+            "WEST": {
+                "frame": {
+                    "name": "frame1"
+                }
+            },
+            "CENTER": {
+                "frame": {
+                    "name": "frame2"
+                }
+            }
+        }
+    }
+}
